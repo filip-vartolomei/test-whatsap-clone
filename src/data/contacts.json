@@ -1,0 +1,50 @@
+[
+  {
+    "id": "363d4be7-fc23-49a7-b027-5ff662a3fd21",
+    "imgSrc": "https://i.pravatar.cc/300?img=1",
+    "userName": "Alina",
+    "status": "Disponibil/a"
+  },
+  {
+    "id": "6798ee0f-552d-4868-8876-5f4988bbe1e0",
+    "imgSrc": "https://i.pravatar.cc/300?img=2",
+    "userName": "Maria",
+    "status": "❄️ Nimic nu-i mai frumos ca primavara cu zapada ❄️"
+  },
+  {
+    "id": "20cc34e8-9421-44c8-98de-2d292af67992",
+    "imgSrc": "https://i.pravatar.cc/300?img=3",
+    "userName": "Bogdan",
+    "status": "Fight till the end!"
+  },
+  {
+    "id": "6594dd2f-29df-41ed-9ac0-1b24caaf9ca5",
+    "imgSrc": "https://i.pravatar.cc/300?img=4",
+    "userName": "Alexandru",
+    "status": "Fortnite este viata mea!"
+  },
+  {
+    "id": "5183640d-5715-416d-b71c-a202b31ded2b",
+    "imgSrc": "https://i.pravatar.cc/300?img=5",
+    "userName": "Mihaela",
+    "status": "Disponibil/a"
+  },
+  {
+    "id": "aefaf966-1107-4adb-aeb4-13de30432b0d",
+    "imgSrc": "https://i.pravatar.cc/300?img=6",
+    "userName": "George",
+    "status": "Faina asta e super buna!"
+  },
+  {
+    "id": "a71a21ec-3679-4440-88d1-95f616ec220c",
+    "imgSrc": "https://i.pravatar.cc/300?img=7",
+    "userName": "Justin",
+    "status": "Get rich or die tryin - 50 Cent"
+  },
+  {
+    "id": "a71a21ec-3679-4440-88d1-95f616ec2202",
+    "imgSrc": null,
+    "userName": "test",
+    "status": "test - no user image"
+  }
+]
